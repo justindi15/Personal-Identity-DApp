@@ -29,4 +29,4 @@
 1. choose file to upload as Identification Image
 2. 'Send' to the IPFS
 3. Once it is successful you can copy the "IPFS Hash # stored on Eth Contract"
-3. You can view the file uploaded via http://localhost:8080/ipfs/<IPFS Hash> 
+3. You can view the file uploaded via http://localhost:8080/ipfs/IPFS_Hash_# (replace IPFS_Hash_# with the number you copied)
