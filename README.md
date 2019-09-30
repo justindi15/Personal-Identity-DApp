@@ -36,3 +36,4 @@ While the concept has some areas of weakness, We feel that it has the foundation
 2. 'Send' to the IPFS
 3. Once it is successful you can copy the "IPFS Hash # stored on Eth Contract"
 3. You can view the file uploaded via http://localhost:8080/ipfs/IPFS_Hash_# (replace IPFS_Hash_# with the number you copied)
+4. Using remix to interact with the Smart Contract, you can "Create Users" and then "Endorse" them with their wallet address
