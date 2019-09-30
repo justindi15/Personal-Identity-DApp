@@ -1,3 +1,9 @@
+Welcome! This is a description of our project, the Personal Identity Decentralized App, and all its beautiful nuances and synergistic functionality.
+
+This PI Dapp is a simple demonstration of our Proof of Concept for a solution to homeless individuals at risk of losing their Government ID. Without a Government ID, homeless individuals face challenges in receiving support from organizations and risk not having shelter or food. The App aims to solve this problem by providing a means to digitally store Personal Identification in an immutable and verifiable way. The Personal Identity is stored in a decentralized way through the InterPlanetary File System (IPFS), while the link to that file is stored on the Smart Contract on the Ethereum blockchain. The App continues with our vision by allowing users to "Endorse" each other through the Smart Contract, which will create more ways to build credibility. 
+
+While the concept has some areas of weakness, We feel our concept has the foundation and room to grow into a solution worth implementing on a municpal level or even in developing countries where personal identity protection is an issue. We hope our idea inspires you to use blockchain for to solve similar problems in your community!
+
 ## Installation:
 
 1. Install Metamask wallet as a browser extension: https://metamask.io/
